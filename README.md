@@ -1,1 +1,1 @@
-# Shabi-x.github.io
+pnpm next dev
